@@ -7,8 +7,9 @@ site and produce the links on the 3 different pages - Notices, Results and Dates
 ##### Backend 
       1. java as core language
       2. Spring MVC along with Hibernate for processing requests
-      3. Scheduler
-      4. PostgreSQL as database
+      3. Maven for dependency injection
+      4. Scheduler
+      5. PostgreSQL as database
 ##### Frontend
       1. javaScript
       2. jade
